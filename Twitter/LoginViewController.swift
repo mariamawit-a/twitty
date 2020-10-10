@@ -12,10 +12,10 @@ class LoginViewController: UIViewController {
 
     @IBAction func onLoginButton(_ sender: Any) {
         
-        let myUrl = "https://api.twitter.com/oauth/request_token"
+        let my = "https://api.twitter.com/oauth/request_token"
         
-        TwitterAPICaller.client?.login(url: myUrl, success: {
-            
+        TwitterAPICaller.client?.login(url: my, success: {
+            print("hello")
             UserDefaults.standard.set(true, forKey: "userLoggedIn")
             self.performSegue(withIdentifier: "loginToHome", sender: self)
             
