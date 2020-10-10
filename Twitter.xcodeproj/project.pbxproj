@@ -79,8 +79,9 @@
 		6EBCF52421DF07FC00451C03 /* Twitter */ = {
 			isa = PBXGroup;
 			children = (
-				E73F4B8B253146B7004B2C17 /* twitter_gif.gif */,
 				6EBCF54D21E71F9400451C03 /* Launch Screen.storyboard */,
+				E73F4B8A2531443E004B2C17 /* README.md */,
+				E73F4B8B253146B7004B2C17 /* twitter_gif.gif */,
 				6EBCF52921DF07FC00451C03 /* Main.storyboard */,
 				6EBCF54321E047A500451C03 /* TwitterAPICaller.swift */,
 				6EBCF52521DF07FC00451C03 /* AppDelegate.swift */,
@@ -89,7 +90,6 @@
 				E74275C3252FEEF4004C214F /* LoginViewController.swift */,
 				E74275C6253008E3004C214F /* HomeTableViewController.swift */,
 				E74275C92530F1C0004C214F /* TweetCellTableViewCell.swift */,
-				E73F4B8A2531443E004B2C17 /* README.md */,
 			);
 			path = Twitter;
 			sourceTree = "<group>";
