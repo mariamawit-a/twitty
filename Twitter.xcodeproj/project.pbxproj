@@ -18,6 +18,7 @@
 		E74275C4252FEEF4004C214F /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74275C3252FEEF4004C214F /* LoginViewController.swift */; };
 		E74275C7253008E3004C214F /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74275C6253008E3004C214F /* HomeTableViewController.swift */; };
 		E74275CA2530F1C0004C214F /* TweetCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74275C92530F1C0004C214F /* TweetCellTableViewCell.swift */; };
+		E789878D253AA9390023047F /* twiiter2_gif.gif in Resources */ = {isa = PBXBuildFile; fileRef = E789878C253AA9380023047F /* twiiter2_gif.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		E74275C3252FEEF4004C214F /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		E74275C6253008E3004C214F /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
 		E74275C92530F1C0004C214F /* TweetCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetCellTableViewCell.swift; sourceTree = "<group>"; };
+		E789878C253AA9380023047F /* twiiter2_gif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = twiiter2_gif.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		6EBCF51921DF07FC00451C03 = {
 			isa = PBXGroup;
 			children = (
+				E789878C253AA9380023047F /* twiiter2_gif.gif */,
 				E73F4B8A2531443E004B2C17 /* README.md */,
 				E73F4B8B253146B7004B2C17 /* twitter_gif.gif */,
 				6EBCF52421DF07FC00451C03 /* Twitter */,
@@ -168,6 +171,7 @@
 			files = (
 				6EBCF54E21E71F9400451C03 /* Launch Screen.storyboard in Resources */,
 				37D29B8621F90E3400984A88 /* Assets.xcassets in Resources */,
+				E789878D253AA9390023047F /* twiiter2_gif.gif in Resources */,
 				6EBCF52B21DF07FC00451C03 /* Main.storyboard in Resources */,
 				E73F4B8C253146B7004B2C17 /* twitter_gif.gif in Resources */,
 			);
